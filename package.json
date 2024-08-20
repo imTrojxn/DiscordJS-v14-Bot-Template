@@ -1,0 +1,19 @@
+{
+  "name": "casualty_bot_v2.0",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "tyvn",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@keyv/mongo": "^2.2.8",
+    "discord.js": "^14.15.3",
+    "glob": "^10.4.5",
+    "keyv": "^4.5.4",
+    "psn-api": "^2.10.1"
+  }
+}

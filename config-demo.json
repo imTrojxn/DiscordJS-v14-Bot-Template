@@ -1,0 +1,11 @@
+{
+    "RENAME THIS FILE TO config.json": "RENAME THIS FILE TO config.json",
+    "token": "BOT TOKEN",
+    "prefix": "PREFIX",
+    "watermark": "developed by .tyvn",
+    "owner": "YOUR ID",
+    "embed-color": "YOUR EMBED COLOR (#HEXHEX)",
+    "database_url": "YOUR DATABASE",
+    "npsso": "YOUR NPSSO"
+    ,"THIS FILE NAME SHOULD BE config.json": "THIS FILE NAME SHOULD BE config.json"
+}
